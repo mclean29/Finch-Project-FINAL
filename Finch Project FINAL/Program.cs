@@ -763,7 +763,7 @@ namespace Project_FinchControl
             // TODO test connection and provide user feedback - text, lights, sounds
 
             DisplayMenuPrompt("Main Menu");
-
+             
             //
             // reset finch robot
             //
